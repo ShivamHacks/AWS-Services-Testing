@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AWS Services Testing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_item">Add Item</string>
+    <string name="title_activity_find_item">Find Item</string>
+    <string name="title_activity_change_item">Change Item</string>
+    <string name="title_activity_delete_item">Delete Item</string>
+
+    <string name="aws_identity_pool_id">"PUT YOUR OWN HERE!!!"</string>
+
+</resources>
